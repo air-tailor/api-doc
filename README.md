@@ -123,14 +123,6 @@ Note - Included with the alterations is an image and instructions (if needed) to
     id: 13,
     name: 'Skirt',
   },
-  {
-    id: 12,
-    name: 'Suit Jacket',
-  },
-  {
-    id: 14,
-    name: 'Necktie',
-  },
 ]
 ```
 
